@@ -1,0 +1,64 @@
+Project #1
+CSC 492
+
+Due: Wednesday March 29, 5:00 pm
+
+Team: 
+    * Tyler Daly (dalyt)
+    * Jeremy Hanson (hansonj)
+    * Brent Van Aartsen (vanaartb)
+
+Turn in: details will be provided at each checkpoint
+
+    * March 14
+          o Project selection and team assignments
+          o Gather basic project specifications
+    * March 21
+          o Sign-off on project implementation/completion plan
+          o Sketch of interface
+          o Major components and solution strategies
+          o Team member assignments and tasks
+    * March 28
+          o Project demonstration
+
+Class Project
+
+Background:
+
+    * In class, we have covered
+          o Basic page design and content
+          o Client-side scripting
+          o Server-side scripting
+          o A little AJAX
+    * You will now be asked to
+          o put it all together to complete a task
+          o work as part of a design/development team
+          o learn new skills as necessary to solve problems
+    * We will try this a few times during the remainder of the semester
+
+Preparation & planning:
+
+    * Pick your team
+    * Ask questions
+    * Make plans
+
+The Problem:
+
+    * Calculate Dates
+
+Requirements:
+
+    * Gather project requirements
+    * Develop a plan
+    * Design and implement a solution
+    * Test the application
+    * Present your solution for final approval
+
+Goals:
+
+    * Work through a project from start to finish
+    * Utilize what we have learned; utilize your resources
+    * Identify resources
+
+
+Input holidays into aspx page.
